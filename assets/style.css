@@ -23,14 +23,6 @@ body {
 }
 /* código omitido */
 
-h1 {
-    font-size: 2rem;
-    color: var(--bg-color);
-     font-weight: 700;
-}
-
-/* código omitido */
-
 nav a {
     text-decoration: none;
     color: var(--bg-color);
